@@ -1,1 +1,1 @@
-# zalupa-konya
+# quizletCopy
